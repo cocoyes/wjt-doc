@@ -1,0 +1,47 @@
+{
+	"title": "无界通支付接口文档",
+	"author": "ApacheMoy",
+	"description": "无界通支付接口文档",
+	"language": "zh-hans",
+	"structure": {
+		"readme": "README.md"
+	},
+	"plugins": [
+		"-sharing",
+		"-fontsettings",
+		"back-to-top-button",
+		"copy-code-button",
+		"cuav-chapters",
+		"heading-anchors",
+		"theme-fexa"
+	],
+	"variables": {
+		"themeFexa": {
+			"nav": [{
+				"url": "http://...",
+				"target": "_blank",
+				"name": "商家平台"
+			}]
+		}
+	},
+	"pluginsConfig": {
+		"theme-fexa": {
+			"search-placeholder": "关键字搜索",
+			"logo": "https://app-biaoshop-cn.oss-cn-zhangjiakou.aliyuncs.com/soft/20191108203943_198058.png",
+			"favicon": "https://www-alphagdax-com.oss-cn-zhangjiakou.aliyuncs.com/2019/11/26/8c4b859a-7847-4ffe-b286-fbffcd985ef5.ico"
+		}
+
+	},
+	"links": {
+		"sidebar": {
+			
+		}
+	},
+	"styles": {
+		"website": "styles/website.css",
+		"ebook": "styles/ebook.css",
+		"pdf": "styles/pdf.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"
+	}
+}
